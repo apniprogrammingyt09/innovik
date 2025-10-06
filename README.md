@@ -520,6 +520,6 @@ Ensure all production environment variables are properly configured:
 
 ---
 
-**Built with ❤️ for Smart India Hackathon 2024**
+**Built with ❤️ for Smart India Hackathon 2025**
 
 *Empowering citizens, streamlining governance, building smarter cities.*
